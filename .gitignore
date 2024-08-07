@@ -3,7 +3,7 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-/tests/outputColumnContent.json
-/tests/outputColumnCount.json
-/tests/outputRowContent.json
-/tests/outputRowCount.json
+/tests/outputColumnContent.json/
+/tests/outputColumnCount.json/
+/tests/outputRowContent.json/
+/tests/outputRowCount.json/
